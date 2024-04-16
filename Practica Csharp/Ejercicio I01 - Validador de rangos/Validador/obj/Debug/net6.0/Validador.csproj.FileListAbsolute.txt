@@ -1,0 +1,12 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Validador de rangos\Validador\obj\Debug\net6.0\Validador.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Validador de rangos\Validador\obj\Debug\net6.0\Validador.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Validador de rangos\Validador\obj\Debug\net6.0\Validador.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Validador de rangos\Validador\obj\Debug\net6.0\Validador.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Validador de rangos\Validador\obj\Debug\net6.0\Validador.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Validador de rangos\Validador\bin\Debug\net6.0\Validador.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Validador de rangos\Validador\bin\Debug\net6.0\Validador.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Validador de rangos\Validador\bin\Debug\net6.0\Validador.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Validador de rangos\Validador\obj\Debug\net6.0\Validador.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Validador de rangos\Validador\obj\Debug\net6.0\refint\Validador.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Validador de rangos\Validador\obj\Debug\net6.0\Validador.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Validador de rangos\Validador\obj\Debug\net6.0\ref\Validador.dll

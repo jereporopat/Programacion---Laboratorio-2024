@@ -1,0 +1,6 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Conversor\bin\Debug\Conversor.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Conversor\bin\Debug\Conversor.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\Conversor.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\Conversor.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Conversor\obj\Debug\Conversor.pdb

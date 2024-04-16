@@ -1,0 +1,18 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Ejercicio I03 - Conversor binario\bin\Debug\net6.0\Ejercicio I03 - Conversor binario.exe
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Ejercicio I03 - Conversor binario\bin\Debug\net6.0\Ejercicio I03 - Conversor binario.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Ejercicio I03 - Conversor binario\bin\Debug\net6.0\Ejercicio I03 - Conversor binario.runtimeconfig.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Ejercicio I03 - Conversor binario\bin\Debug\net6.0\Ejercicio I03 - Conversor binario.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Ejercicio I03 - Conversor binario\bin\Debug\net6.0\Ejercicio I03 - Conversor binario.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Ejercicio I03 - Conversor binario\bin\Debug\net6.0\Conversor.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Ejercicio I03 - Conversor binario\bin\Debug\net6.0\Conversor.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\Ejercicio I03 - Conversor binario.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\Ejercicio I03 - Conversor binario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\Ejercicio I03 - Conversor binario.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\Ejercicio I03 - Conversor binario.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\Ejercicio I03 - Conversor binario.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\Ejercicio I03 - Conversor binario.csproj.CopyComplete
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\Ejercicio I03 - Conversor binario.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\refint\Ejercicio I03 - Conversor binario.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\Ejercicio I03 - Conversor binario.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\Ejercicio I03 - Conversor binario.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I03 - Conversor binario\Ejercicio I03 - Conversor binario\obj\Debug\net6.0\ref\Ejercicio I03 - Conversor binario.dll

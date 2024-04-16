@@ -1,0 +1,6 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Calculadora\bin\Debug\Calculadora.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Calculadora\obj\Debug\Calculadora.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Calculadora\obj\Debug\Calculadora.pdb

@@ -1,0 +1,15 @@
+D:\Escritorio\Practica\Practica Csharp\bin\Debug\net6.0\Practica Csharp.exe
+D:\Escritorio\Practica\Practica Csharp\bin\Debug\net6.0\Practica Csharp.deps.json
+D:\Escritorio\Practica\Practica Csharp\bin\Debug\net6.0\Practica Csharp.runtimeconfig.json
+D:\Escritorio\Practica\Practica Csharp\bin\Debug\net6.0\Practica Csharp.dll
+D:\Escritorio\Practica\Practica Csharp\bin\Debug\net6.0\Practica Csharp.pdb
+D:\Escritorio\Practica\Practica Csharp\obj\Debug\net6.0\Practica Csharp.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\obj\Debug\net6.0\Practica Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\obj\Debug\net6.0\Practica Csharp.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\obj\Debug\net6.0\Practica Csharp.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\obj\Debug\net6.0\Practica Csharp.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\obj\Debug\net6.0\Practica Csharp.dll
+D:\Escritorio\Practica\Practica Csharp\obj\Debug\net6.0\refint\Practica Csharp.dll
+D:\Escritorio\Practica\Practica Csharp\obj\Debug\net6.0\Practica Csharp.pdb
+D:\Escritorio\Practica\Practica Csharp\obj\Debug\net6.0\Practica Csharp.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica Csharp\obj\Debug\net6.0\ref\Practica Csharp.dll

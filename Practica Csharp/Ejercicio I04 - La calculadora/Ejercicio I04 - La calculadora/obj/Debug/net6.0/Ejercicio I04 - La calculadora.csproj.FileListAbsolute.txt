@@ -1,0 +1,18 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Ejercicio I04 - La calculadora\bin\Debug\net6.0\Ejercicio I04 - La calculadora.exe
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Ejercicio I04 - La calculadora\bin\Debug\net6.0\Ejercicio I04 - La calculadora.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Ejercicio I04 - La calculadora\bin\Debug\net6.0\Ejercicio I04 - La calculadora.runtimeconfig.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Ejercicio I04 - La calculadora\bin\Debug\net6.0\Ejercicio I04 - La calculadora.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Ejercicio I04 - La calculadora\bin\Debug\net6.0\Ejercicio I04 - La calculadora.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Ejercicio I04 - La calculadora\bin\Debug\net6.0\Calculadora.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Ejercicio I04 - La calculadora\bin\Debug\net6.0\Calculadora.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Ejercicio I04 - La calculadora\obj\Debug\net6.0\Ejercicio I04 - La calculadora.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Ejercicio I04 - La calculadora\obj\Debug\net6.0\Ejercicio I04 - La calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Ejercicio I04 - La calculadora\obj\Debug\net6.0\Ejercicio I04 - La calculadora.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Ejercicio I04 - La calculadora\obj\Debug\net6.0\Ejercicio I04 - La calculadora.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Ejercicio I04 - La calculadora\obj\Debug\net6.0\Ejercicio I04 - La calculadora.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Ejercicio I04 - La calculadora\obj\Debug\net6.0\Ejercicio I04 - La calculadora.csproj.CopyComplete
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Ejercicio I04 - La calculadora\obj\Debug\net6.0\Ejercicio I04 - La calculadora.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Ejercicio I04 - La calculadora\obj\Debug\net6.0\refint\Ejercicio I04 - La calculadora.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Ejercicio I04 - La calculadora\obj\Debug\net6.0\Ejercicio I04 - La calculadora.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Ejercicio I04 - La calculadora\obj\Debug\net6.0\Ejercicio I04 - La calculadora.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I04 - La calculadora\Ejercicio I04 - La calculadora\obj\Debug\net6.0\ref\Ejercicio I04 - La calculadora.dll

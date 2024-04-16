@@ -1,0 +1,18 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Ejercicio I02 - ¿Desea continuar\bin\Debug\net6.0\Ejercicio I02 - ¿Desea continuar.exe
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Ejercicio I02 - ¿Desea continuar\bin\Debug\net6.0\Ejercicio I02 - ¿Desea continuar.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Ejercicio I02 - ¿Desea continuar\bin\Debug\net6.0\Ejercicio I02 - ¿Desea continuar.runtimeconfig.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Ejercicio I02 - ¿Desea continuar\bin\Debug\net6.0\Ejercicio I02 - ¿Desea continuar.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Ejercicio I02 - ¿Desea continuar\bin\Debug\net6.0\Ejercicio I02 - ¿Desea continuar.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Ejercicio I02 - ¿Desea continuar\bin\Debug\net6.0\Validador.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Ejercicio I02 - ¿Desea continuar\bin\Debug\net6.0\Validador.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Ejercicio I02 - ¿Desea continuar\obj\Debug\net6.0\Ejercicio I02 - ¿Desea continuar.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Ejercicio I02 - ¿Desea continuar\obj\Debug\net6.0\Ejercicio I02 - ¿Desea continuar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Ejercicio I02 - ¿Desea continuar\obj\Debug\net6.0\Ejercicio I02 - ¿Desea continuar.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Ejercicio I02 - ¿Desea continuar\obj\Debug\net6.0\Ejercicio I02 - ¿Desea continuar.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Ejercicio I02 - ¿Desea continuar\obj\Debug\net6.0\Ejercicio I02 - ¿Desea continuar.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Ejercicio I02 - ¿Desea continuar\obj\Debug\net6.0\Ejercicio I02 - ¿Desea continuar.csproj.CopyComplete
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Ejercicio I02 - ¿Desea continuar\obj\Debug\net6.0\Ejercicio I02 - ¿Desea continuar.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Ejercicio I02 - ¿Desea continuar\obj\Debug\net6.0\refint\Ejercicio I02 - ¿Desea continuar.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Ejercicio I02 - ¿Desea continuar\obj\Debug\net6.0\Ejercicio I02 - ¿Desea continuar.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Ejercicio I02 - ¿Desea continuar\obj\Debug\net6.0\Ejercicio I02 - ¿Desea continuar.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Ejercicio I02 - ¿Desea continuar\obj\Debug\net6.0\ref\Ejercicio I02 - ¿Desea continuar.dll

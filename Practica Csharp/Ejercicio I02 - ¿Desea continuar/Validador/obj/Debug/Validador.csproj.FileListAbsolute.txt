@@ -1,0 +1,6 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Validador\bin\Debug\Validador.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Validador\bin\Debug\Validador.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Validador\obj\Debug\Validador.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Validador\obj\Debug\Validador.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Validador\obj\Debug\Validador.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Desea continuar\Validador\obj\Debug\Validador.pdb
