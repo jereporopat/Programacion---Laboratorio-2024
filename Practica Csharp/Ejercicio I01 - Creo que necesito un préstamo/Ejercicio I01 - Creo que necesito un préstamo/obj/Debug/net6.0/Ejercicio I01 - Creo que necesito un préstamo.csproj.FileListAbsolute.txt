@@ -1,0 +1,18 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.exe
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.runtimeconfig.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net6.0\Clases.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo\bin\Debug\net6.0\Clases.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.csproj.CopyComplete
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\refint\Ejercicio I01 - Creo que necesito un préstamo.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\Ejercicio I01 - Creo que necesito un préstamo.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Creo que necesito un préstamo\Ejercicio I01 - Creo que necesito un préstamo\obj\Debug\net6.0\ref\Ejercicio I01 - Creo que necesito un préstamo.dll

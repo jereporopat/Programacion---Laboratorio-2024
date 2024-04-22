@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Tabla_de_multiplicar
 {
-    public class Class1
+    public class TablaDeMultiplicar
     {
+        public static int calcular (int numero)
+        {
+
+        }
     }
 }

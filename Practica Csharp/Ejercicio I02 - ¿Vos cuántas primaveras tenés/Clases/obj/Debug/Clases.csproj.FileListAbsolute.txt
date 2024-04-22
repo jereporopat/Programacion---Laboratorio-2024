@@ -1,0 +1,6 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Clases\bin\Debug\Clases.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Clases\bin\Debug\Clases.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Clases\obj\Debug\Clases.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Clases\obj\Debug\Clases.pdb

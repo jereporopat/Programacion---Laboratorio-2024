@@ -1,0 +1,15 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I08 - El tiempo pasa\Ejercicio I08 - El tiempo pasa\bin\Debug\net6.0\Ejercicio I08 - El tiempo pasa.exe
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I08 - El tiempo pasa\Ejercicio I08 - El tiempo pasa\bin\Debug\net6.0\Ejercicio I08 - El tiempo pasa.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I08 - El tiempo pasa\Ejercicio I08 - El tiempo pasa\bin\Debug\net6.0\Ejercicio I08 - El tiempo pasa.runtimeconfig.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I08 - El tiempo pasa\Ejercicio I08 - El tiempo pasa\bin\Debug\net6.0\Ejercicio I08 - El tiempo pasa.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I08 - El tiempo pasa\Ejercicio I08 - El tiempo pasa\bin\Debug\net6.0\Ejercicio I08 - El tiempo pasa.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I08 - El tiempo pasa\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I08 - El tiempo pasa\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I08 - El tiempo pasa\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I08 - El tiempo pasa\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I08 - El tiempo pasa\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I08 - El tiempo pasa\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I08 - El tiempo pasa\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\refint\Ejercicio I08 - El tiempo pasa.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I08 - El tiempo pasa\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I08 - El tiempo pasa\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\Ejercicio I08 - El tiempo pasa.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I08 - El tiempo pasa\Ejercicio I08 - El tiempo pasa\obj\Debug\net6.0\ref\Ejercicio I08 - El tiempo pasa.dll

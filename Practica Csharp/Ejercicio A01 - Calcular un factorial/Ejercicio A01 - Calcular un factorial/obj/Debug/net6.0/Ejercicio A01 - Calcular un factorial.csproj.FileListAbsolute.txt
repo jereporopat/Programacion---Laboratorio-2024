@@ -1,0 +1,15 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A01 - Calcular un factorial\Ejercicio A01 - Calcular un factorial\bin\Debug\net6.0\Ejercicio A01 - Calcular un factorial.exe
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A01 - Calcular un factorial\Ejercicio A01 - Calcular un factorial\bin\Debug\net6.0\Ejercicio A01 - Calcular un factorial.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A01 - Calcular un factorial\Ejercicio A01 - Calcular un factorial\bin\Debug\net6.0\Ejercicio A01 - Calcular un factorial.runtimeconfig.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A01 - Calcular un factorial\Ejercicio A01 - Calcular un factorial\bin\Debug\net6.0\Ejercicio A01 - Calcular un factorial.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A01 - Calcular un factorial\Ejercicio A01 - Calcular un factorial\bin\Debug\net6.0\Ejercicio A01 - Calcular un factorial.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A01 - Calcular un factorial\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A01 - Calcular un factorial\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A01 - Calcular un factorial\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A01 - Calcular un factorial\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A01 - Calcular un factorial\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A01 - Calcular un factorial\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A01 - Calcular un factorial\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\refint\Ejercicio A01 - Calcular un factorial.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A01 - Calcular un factorial\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A01 - Calcular un factorial\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\Ejercicio A01 - Calcular un factorial.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A01 - Calcular un factorial\Ejercicio A01 - Calcular un factorial\obj\Debug\net6.0\ref\Ejercicio A01 - Calcular un factorial.dll

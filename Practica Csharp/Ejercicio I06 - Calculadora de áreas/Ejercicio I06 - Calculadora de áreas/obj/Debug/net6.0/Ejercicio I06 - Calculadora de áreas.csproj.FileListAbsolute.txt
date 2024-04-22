@@ -1,0 +1,15 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I06 - Calculadora de áreas\Ejercicio I06 - Calculadora de áreas\bin\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.exe
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I06 - Calculadora de áreas\Ejercicio I06 - Calculadora de áreas\bin\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I06 - Calculadora de áreas\Ejercicio I06 - Calculadora de áreas\bin\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.runtimeconfig.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I06 - Calculadora de áreas\Ejercicio I06 - Calculadora de áreas\bin\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I06 - Calculadora de áreas\Ejercicio I06 - Calculadora de áreas\bin\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I06 - Calculadora de áreas\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I06 - Calculadora de áreas\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I06 - Calculadora de áreas\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I06 - Calculadora de áreas\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I06 - Calculadora de áreas\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I06 - Calculadora de áreas\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I06 - Calculadora de áreas\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\refint\Ejercicio I06 - Calculadora de áreas.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I06 - Calculadora de áreas\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I06 - Calculadora de áreas\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\Ejercicio I06 - Calculadora de áreas.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I06 - Calculadora de áreas\Ejercicio I06 - Calculadora de áreas\obj\Debug\net6.0\ref\Ejercicio I06 - Calculadora de áreas.dll

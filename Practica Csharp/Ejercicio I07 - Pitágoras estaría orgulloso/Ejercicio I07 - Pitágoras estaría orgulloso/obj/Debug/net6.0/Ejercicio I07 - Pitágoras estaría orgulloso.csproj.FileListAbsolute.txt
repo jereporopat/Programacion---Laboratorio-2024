@@ -1,0 +1,15 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I07 - Pitágoras estaría orgulloso\Ejercicio I07 - Pitágoras estaría orgulloso\bin\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.exe
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I07 - Pitágoras estaría orgulloso\Ejercicio I07 - Pitágoras estaría orgulloso\bin\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I07 - Pitágoras estaría orgulloso\Ejercicio I07 - Pitágoras estaría orgulloso\bin\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.runtimeconfig.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I07 - Pitágoras estaría orgulloso\Ejercicio I07 - Pitágoras estaría orgulloso\bin\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I07 - Pitágoras estaría orgulloso\Ejercicio I07 - Pitágoras estaría orgulloso\bin\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I07 - Pitágoras estaría orgulloso\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I07 - Pitágoras estaría orgulloso\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I07 - Pitágoras estaría orgulloso\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I07 - Pitágoras estaría orgulloso\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I07 - Pitágoras estaría orgulloso\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I07 - Pitágoras estaría orgulloso\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I07 - Pitágoras estaría orgulloso\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\refint\Ejercicio I07 - Pitágoras estaría orgulloso.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I07 - Pitágoras estaría orgulloso\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I07 - Pitágoras estaría orgulloso\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\Ejercicio I07 - Pitágoras estaría orgulloso.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I07 - Pitágoras estaría orgulloso\Ejercicio I07 - Pitágoras estaría orgulloso\obj\Debug\net6.0\ref\Ejercicio I07 - Pitágoras estaría orgulloso.dll

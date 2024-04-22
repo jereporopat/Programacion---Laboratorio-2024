@@ -1,0 +1,18 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\Ejercicio A02 - La veterinaria\obj\Debug\net6.0\Ejercicio A02 - La veterinaria.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\Ejercicio A02 - La veterinaria\obj\Debug\net6.0\Ejercicio A02 - La veterinaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\Ejercicio A02 - La veterinaria\obj\Debug\net6.0\Ejercicio A02 - La veterinaria.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\Ejercicio A02 - La veterinaria\obj\Debug\net6.0\Ejercicio A02 - La veterinaria.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\Ejercicio A02 - La veterinaria\obj\Debug\net6.0\Ejercicio A02 - La veterinaria.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\Ejercicio A02 - La veterinaria\bin\Debug\net6.0\Ejercicio A02 - La veterinaria.exe
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\Ejercicio A02 - La veterinaria\bin\Debug\net6.0\Ejercicio A02 - La veterinaria.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\Ejercicio A02 - La veterinaria\bin\Debug\net6.0\Ejercicio A02 - La veterinaria.runtimeconfig.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\Ejercicio A02 - La veterinaria\bin\Debug\net6.0\Ejercicio A02 - La veterinaria.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\Ejercicio A02 - La veterinaria\bin\Debug\net6.0\Ejercicio A02 - La veterinaria.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\Ejercicio A02 - La veterinaria\bin\Debug\net6.0\VeterinariaBibliotecaClases.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\Ejercicio A02 - La veterinaria\bin\Debug\net6.0\VeterinariaBibliotecaClases.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\Ejercicio A02 - La veterinaria\obj\Debug\net6.0\Ejercicio A02 - La veterinaria.csproj.CopyComplete
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\Ejercicio A02 - La veterinaria\obj\Debug\net6.0\Ejercicio A02 - La veterinaria.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\Ejercicio A02 - La veterinaria\obj\Debug\net6.0\refint\Ejercicio A02 - La veterinaria.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\Ejercicio A02 - La veterinaria\obj\Debug\net6.0\Ejercicio A02 - La veterinaria.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\Ejercicio A02 - La veterinaria\obj\Debug\net6.0\Ejercicio A02 - La veterinaria.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\Ejercicio A02 - La veterinaria\obj\Debug\net6.0\ref\Ejercicio A02 - La veterinaria.dll

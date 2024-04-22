@@ -1,0 +1,18 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Ejercicio I02 - ¿Vos cuántas primaveras tenés\bin\Debug\net6.0\Ejercicio I02 - ¿Vos cuántas primaveras tenés.exe
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Ejercicio I02 - ¿Vos cuántas primaveras tenés\bin\Debug\net6.0\Ejercicio I02 - ¿Vos cuántas primaveras tenés.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Ejercicio I02 - ¿Vos cuántas primaveras tenés\bin\Debug\net6.0\Ejercicio I02 - ¿Vos cuántas primaveras tenés.runtimeconfig.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Ejercicio I02 - ¿Vos cuántas primaveras tenés\bin\Debug\net6.0\Ejercicio I02 - ¿Vos cuántas primaveras tenés.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Ejercicio I02 - ¿Vos cuántas primaveras tenés\bin\Debug\net6.0\Ejercicio I02 - ¿Vos cuántas primaveras tenés.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Ejercicio I02 - ¿Vos cuántas primaveras tenés\bin\Debug\net6.0\Clases.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Ejercicio I02 - ¿Vos cuántas primaveras tenés\bin\Debug\net6.0\Clases.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Ejercicio I02 - ¿Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - ¿Vos cuántas primaveras tenés.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Ejercicio I02 - ¿Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - ¿Vos cuántas primaveras tenés.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Ejercicio I02 - ¿Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - ¿Vos cuántas primaveras tenés.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Ejercicio I02 - ¿Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - ¿Vos cuántas primaveras tenés.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Ejercicio I02 - ¿Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - ¿Vos cuántas primaveras tenés.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Ejercicio I02 - ¿Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - ¿Vos cuántas primaveras tenés.csproj.CopyComplete
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Ejercicio I02 - ¿Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - ¿Vos cuántas primaveras tenés.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Ejercicio I02 - ¿Vos cuántas primaveras tenés\obj\Debug\net6.0\refint\Ejercicio I02 - ¿Vos cuántas primaveras tenés.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Ejercicio I02 - ¿Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - ¿Vos cuántas primaveras tenés.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Ejercicio I02 - ¿Vos cuántas primaveras tenés\obj\Debug\net6.0\Ejercicio I02 - ¿Vos cuántas primaveras tenés.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - ¿Vos cuántas primaveras tenés\Ejercicio I02 - ¿Vos cuántas primaveras tenés\obj\Debug\net6.0\ref\Ejercicio I02 - ¿Vos cuántas primaveras tenés.dll

@@ -1,0 +1,6 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\VeterinariaBibliotecaClases\bin\Debug\VeterinariaBibliotecaClases.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\VeterinariaBibliotecaClases\bin\Debug\VeterinariaBibliotecaClases.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\VeterinariaBibliotecaClases\obj\Debug\VeterinariaBibliotecaClases.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\VeterinariaBibliotecaClases\obj\Debug\VeterinariaBibliotecaClases.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\VeterinariaBibliotecaClases\obj\Debug\VeterinariaBibliotecaClases.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio A02 - La veterinaria\VeterinariaBibliotecaClases\obj\Debug\VeterinariaBibliotecaClases.pdb

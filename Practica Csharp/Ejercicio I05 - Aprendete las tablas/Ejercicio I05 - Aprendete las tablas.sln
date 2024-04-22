@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio I05 - Aprendete las tablas", "Ejercicio I05 - Aprendete las tablas\Ejercicio I05 - Aprendete las tablas.csproj", "{4047CC4F-83FA-4574-AE63-C653548FD614}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabla de multiplicar", "Tabla de multiplicar\Tabla de multiplicar.csproj", "{952E491A-E321-415D-9B8F-5557C402451F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4047CC4F-83FA-4574-AE63-C653548FD614}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4047CC4F-83FA-4574-AE63-C653548FD614}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4047CC4F-83FA-4574-AE63-C653548FD614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{952E491A-E321-415D-9B8F-5557C402451F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952E491A-E321-415D-9B8F-5557C402451F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952E491A-E321-415D-9B8F-5557C402451F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952E491A-E321-415D-9B8F-5557C402451F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
