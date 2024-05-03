@@ -1,0 +1,15 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Números locos\Ejercicio I01 - Números locos\obj\Debug\net6.0\Ejercicio I01 - Números locos.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Números locos\Ejercicio I01 - Números locos\obj\Debug\net6.0\Ejercicio I01 - Números locos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Números locos\Ejercicio I01 - Números locos\obj\Debug\net6.0\Ejercicio I01 - Números locos.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Números locos\Ejercicio I01 - Números locos\obj\Debug\net6.0\Ejercicio I01 - Números locos.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Números locos\Ejercicio I01 - Números locos\obj\Debug\net6.0\Ejercicio I01 - Números locos.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Números locos\Ejercicio I01 - Números locos\bin\Debug\net6.0\Ejercicio I01 - Números locos.exe
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Números locos\Ejercicio I01 - Números locos\bin\Debug\net6.0\Ejercicio I01 - Números locos.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Números locos\Ejercicio I01 - Números locos\bin\Debug\net6.0\Ejercicio I01 - Números locos.runtimeconfig.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Números locos\Ejercicio I01 - Números locos\bin\Debug\net6.0\Ejercicio I01 - Números locos.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Números locos\Ejercicio I01 - Números locos\bin\Debug\net6.0\Ejercicio I01 - Números locos.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Números locos\Ejercicio I01 - Números locos\obj\Debug\net6.0\Ejercicio I01 - Números locos.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Números locos\Ejercicio I01 - Números locos\obj\Debug\net6.0\refint\Ejercicio I01 - Números locos.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Números locos\Ejercicio I01 - Números locos\obj\Debug\net6.0\Ejercicio I01 - Números locos.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Números locos\Ejercicio I01 - Números locos\obj\Debug\net6.0\Ejercicio I01 - Números locos.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Números locos\Ejercicio I01 - Números locos\obj\Debug\net6.0\ref\Ejercicio I01 - Números locos.dll

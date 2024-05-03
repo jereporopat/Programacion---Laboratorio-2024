@@ -1,0 +1,6 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C02 - La estantería\BDC-La estanteria\obj\Debug\BDC-La estanteria.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C02 - La estantería\BDC-La estanteria\obj\Debug\BDC-La estanteria.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C02 - La estantería\BDC-La estanteria\bin\Debug\BDC-La estanteria.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C02 - La estantería\BDC-La estanteria\bin\Debug\BDC-La estanteria.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C02 - La estantería\BDC-La estanteria\obj\Debug\BDC-La estanteria.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C02 - La estantería\BDC-La estanteria\obj\Debug\BDC-La estanteria.pdb

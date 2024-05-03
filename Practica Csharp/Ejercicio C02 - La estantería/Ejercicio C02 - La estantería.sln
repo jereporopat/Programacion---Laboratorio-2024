@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio C02 - La estantería", "Ejercicio C02 - La estantería\Ejercicio C02 - La estantería.csproj", "{EADBE4E6-03DE-4008-AD5A-AA8640990E10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDC-La estanteria", "BDC-La estanteria\BDC-La estanteria.csproj", "{22172FC1-3BB1-4139-826B-48549B0A1473}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EADBE4E6-03DE-4008-AD5A-AA8640990E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADBE4E6-03DE-4008-AD5A-AA8640990E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADBE4E6-03DE-4008-AD5A-AA8640990E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADBE4E6-03DE-4008-AD5A-AA8640990E10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22172FC1-3BB1-4139-826B-48549B0A1473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22172FC1-3BB1-4139-826B-48549B0A1473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22172FC1-3BB1-4139-826B-48549B0A1473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22172FC1-3BB1-4139-826B-48549B0A1473}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD72D37B-BFA0-4777-BD4C-0A6DD4F0F499}
+	EndGlobalSection
+EndGlobal

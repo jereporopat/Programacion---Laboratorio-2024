@@ -1,0 +1,6 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Sumador\Clases\bin\Debug\Clases.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Sumador\Clases\bin\Debug\Clases.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Sumador\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Sumador\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Sumador\Clases\obj\Debug\Clases.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Sumador\Clases\obj\Debug\Clases.pdb
