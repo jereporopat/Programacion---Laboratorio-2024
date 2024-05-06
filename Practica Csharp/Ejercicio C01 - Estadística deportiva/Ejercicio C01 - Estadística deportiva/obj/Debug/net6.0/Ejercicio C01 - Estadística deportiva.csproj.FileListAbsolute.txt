@@ -1,0 +1,15 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C01 - Estadística deportiva\Ejercicio C01 - Estadística deportiva\bin\Debug\net6.0\Ejercicio C01 - Estadística deportiva.exe
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C01 - Estadística deportiva\Ejercicio C01 - Estadística deportiva\bin\Debug\net6.0\Ejercicio C01 - Estadística deportiva.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C01 - Estadística deportiva\Ejercicio C01 - Estadística deportiva\bin\Debug\net6.0\Ejercicio C01 - Estadística deportiva.runtimeconfig.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C01 - Estadística deportiva\Ejercicio C01 - Estadística deportiva\bin\Debug\net6.0\Ejercicio C01 - Estadística deportiva.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C01 - Estadística deportiva\Ejercicio C01 - Estadística deportiva\bin\Debug\net6.0\Ejercicio C01 - Estadística deportiva.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C01 - Estadística deportiva\Ejercicio C01 - Estadística deportiva\obj\Debug\net6.0\Ejercicio C01 - Estadística deportiva.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C01 - Estadística deportiva\Ejercicio C01 - Estadística deportiva\obj\Debug\net6.0\Ejercicio C01 - Estadística deportiva.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C01 - Estadística deportiva\Ejercicio C01 - Estadística deportiva\obj\Debug\net6.0\Ejercicio C01 - Estadística deportiva.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C01 - Estadística deportiva\Ejercicio C01 - Estadística deportiva\obj\Debug\net6.0\Ejercicio C01 - Estadística deportiva.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C01 - Estadística deportiva\Ejercicio C01 - Estadística deportiva\obj\Debug\net6.0\Ejercicio C01 - Estadística deportiva.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C01 - Estadística deportiva\Ejercicio C01 - Estadística deportiva\obj\Debug\net6.0\Ejercicio C01 - Estadística deportiva.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C01 - Estadística deportiva\Ejercicio C01 - Estadística deportiva\obj\Debug\net6.0\refint\Ejercicio C01 - Estadística deportiva.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C01 - Estadística deportiva\Ejercicio C01 - Estadística deportiva\obj\Debug\net6.0\Ejercicio C01 - Estadística deportiva.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C01 - Estadística deportiva\Ejercicio C01 - Estadística deportiva\obj\Debug\net6.0\Ejercicio C01 - Estadística deportiva.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio C01 - Estadística deportiva\Ejercicio C01 - Estadística deportiva\obj\Debug\net6.0\ref\Ejercicio C01 - Estadística deportiva.dll

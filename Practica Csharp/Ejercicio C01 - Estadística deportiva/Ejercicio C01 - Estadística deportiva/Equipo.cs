@@ -8,28 +8,36 @@ namespace Ejercicio_C01___Estadística_deportiva
 {
     internal class Equipo
     {
-        protected short cantidadDeJugadores;
-        protected List<int> jugadores = new List<int>();
-        protected string nombre;
+        private short cantidadDeJugadores;
+        private List<Jugador> jugadores;
+        private string nombre;
 
-        private Equipo(List<int> jugadores)
+        private Equipo()
         {
-            this.jugadores = jugadores;
+            this.jugadores = new List <Jugador>();
         }
         public Equipo(short cantidadDeJugadores, string nombre)
+            :this()
         {
             this.cantidadDeJugadores = cantidadDeJugadores;
             this.nombre = nombre;
         }
         public static bool operator +(Equipo e, Jugador j)
         {
-            if (e.cantidadDeJugadores >= e.cantidadDeJugadores || e.j.Contains(jugador))
+            if (e.jugadores.Count < e.cantidadDeJugadores)
             {
-                Console.WriteLine("No se puede agregar el jugador al equipo.");
-                return equipo;
+                foreach (Jugador item in e.jugadores)
+                {
+                    if (item == j)
+                    {
+                        return false;
+                    }
+                }
+                e.jugadores.Add(j);
+                return true;
             }
-            equipo.jugadores.Add(jugador);
-            return equipo;
+            else
+                return false;
         }
     }
 }

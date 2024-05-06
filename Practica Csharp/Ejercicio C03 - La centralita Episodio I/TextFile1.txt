@@ -1,0 +1,12 @@
+public enum TipoLLamada
+{
+	Local = 0,
+	Provincial = 1,
+	Todas = 2
+}
+public enum Franja
+{
+franja_1 = 0,
+franja_2 = 1,
+franja_3 = 2
+}

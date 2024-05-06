@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio C03 - La centralita Episodio I", "Ejercicio C03 - La centralita Episodio I\Ejercicio C03 - La centralita Episodio I.csproj", "{C1E870D3-E87A-4394-A059-7AFA3802D78D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Centralita", "Centralita\Centralita.csproj", "{66435FF9-118D-49C1-8052-CF4951B12E45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{42B1FF6E-4EEE-4DC1-ACA4-028B4721FA6B}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1E870D3-E87A-4394-A059-7AFA3802D78D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E870D3-E87A-4394-A059-7AFA3802D78D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E870D3-E87A-4394-A059-7AFA3802D78D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E870D3-E87A-4394-A059-7AFA3802D78D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66435FF9-118D-49C1-8052-CF4951B12E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66435FF9-118D-49C1-8052-CF4951B12E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66435FF9-118D-49C1-8052-CF4951B12E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66435FF9-118D-49C1-8052-CF4951B12E45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9158998-2303-4E2D-B32E-6A94BA1DC2A0}
+	EndGlobalSection
+EndGlobal
