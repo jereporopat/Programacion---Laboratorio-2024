@@ -1,0 +1,6 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Entidades\bin\Debug\Entidades.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Entidades\bin\Debug\Entidades.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Entidades\obj\Debug\Entidades.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,20 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Ejercicio I02 - Registrate\bin\Debug\net6.0-windows\Ejercicio I02 - Registrate.exe
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Ejercicio I02 - Registrate\bin\Debug\net6.0-windows\Ejercicio I02 - Registrate.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Ejercicio I02 - Registrate\bin\Debug\net6.0-windows\Ejercicio I02 - Registrate.runtimeconfig.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Ejercicio I02 - Registrate\bin\Debug\net6.0-windows\Ejercicio I02 - Registrate.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Ejercicio I02 - Registrate\bin\Debug\net6.0-windows\Ejercicio I02 - Registrate.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Ejercicio I02 - Registrate\obj\Debug\net6.0-windows\Ejercicio I02 - Registrate.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Ejercicio I02 - Registrate\obj\Debug\net6.0-windows\Ejercicio_I02___Registrate.Form1.resources
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Ejercicio I02 - Registrate\obj\Debug\net6.0-windows\Ejercicio I02 - Registrate.csproj.GenerateResource.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Ejercicio I02 - Registrate\obj\Debug\net6.0-windows\Ejercicio I02 - Registrate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Ejercicio I02 - Registrate\obj\Debug\net6.0-windows\Ejercicio I02 - Registrate.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Ejercicio I02 - Registrate\obj\Debug\net6.0-windows\Ejercicio I02 - Registrate.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Ejercicio I02 - Registrate\obj\Debug\net6.0-windows\Ejercicio I02 - Registrate.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Ejercicio I02 - Registrate\obj\Debug\net6.0-windows\Ejercicio I02 - Registrate.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Ejercicio I02 - Registrate\obj\Debug\net6.0-windows\refint\Ejercicio I02 - Registrate.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Ejercicio I02 - Registrate\obj\Debug\net6.0-windows\Ejercicio I02 - Registrate.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Ejercicio I02 - Registrate\obj\Debug\net6.0-windows\Ejercicio I02 - Registrate.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Ejercicio I02 - Registrate\obj\Debug\net6.0-windows\ref\Ejercicio I02 - Registrate.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Ejercicio I02 - Registrate\bin\Debug\net6.0-windows\Entidades.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Ejercicio I02 - Registrate\bin\Debug\net6.0-windows\Entidades.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Registrate\Ejercicio I02 - Registrate\obj\Debug\net6.0-windows\Ejercicio I02 - Registrate.csproj.CopyComplete
