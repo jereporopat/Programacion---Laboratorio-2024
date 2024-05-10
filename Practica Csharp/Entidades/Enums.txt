@@ -1,0 +1,5 @@
+public enum SistemaOperativo
+{
+	ANDROID = 0,
+	IOS = 1
+}
