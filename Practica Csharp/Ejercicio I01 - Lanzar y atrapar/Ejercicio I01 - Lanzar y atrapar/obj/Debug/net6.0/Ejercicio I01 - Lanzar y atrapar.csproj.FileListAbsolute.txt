@@ -1,0 +1,15 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Lanzar y atrapar\Ejercicio I01 - Lanzar y atrapar\bin\Debug\net6.0\Ejercicio I01 - Lanzar y atrapar.exe
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Lanzar y atrapar\Ejercicio I01 - Lanzar y atrapar\bin\Debug\net6.0\Ejercicio I01 - Lanzar y atrapar.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Lanzar y atrapar\Ejercicio I01 - Lanzar y atrapar\bin\Debug\net6.0\Ejercicio I01 - Lanzar y atrapar.runtimeconfig.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Lanzar y atrapar\Ejercicio I01 - Lanzar y atrapar\bin\Debug\net6.0\Ejercicio I01 - Lanzar y atrapar.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Lanzar y atrapar\Ejercicio I01 - Lanzar y atrapar\bin\Debug\net6.0\Ejercicio I01 - Lanzar y atrapar.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Lanzar y atrapar\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net6.0\Ejercicio I01 - Lanzar y atrapar.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Lanzar y atrapar\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net6.0\Ejercicio I01 - Lanzar y atrapar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Lanzar y atrapar\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net6.0\Ejercicio I01 - Lanzar y atrapar.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Lanzar y atrapar\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net6.0\Ejercicio I01 - Lanzar y atrapar.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Lanzar y atrapar\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net6.0\Ejercicio I01 - Lanzar y atrapar.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Lanzar y atrapar\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net6.0\Ejercicio I01 - Lanzar y atrapar.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Lanzar y atrapar\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net6.0\refint\Ejercicio I01 - Lanzar y atrapar.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Lanzar y atrapar\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net6.0\Ejercicio I01 - Lanzar y atrapar.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Lanzar y atrapar\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net6.0\Ejercicio I01 - Lanzar y atrapar.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Lanzar y atrapar\Ejercicio I01 - Lanzar y atrapar\obj\Debug\net6.0\ref\Ejercicio I01 - Lanzar y atrapar.dll

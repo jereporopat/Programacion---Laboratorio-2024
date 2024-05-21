@@ -1,0 +1,17 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Atrapame si puedes\Ejercicio I02 - Atrapame si puedes\bin\Debug\net6.0-windows\Ejercicio I02 - Atrapame si puedes.exe
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Atrapame si puedes\Ejercicio I02 - Atrapame si puedes\bin\Debug\net6.0-windows\Ejercicio I02 - Atrapame si puedes.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Atrapame si puedes\Ejercicio I02 - Atrapame si puedes\bin\Debug\net6.0-windows\Ejercicio I02 - Atrapame si puedes.runtimeconfig.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Atrapame si puedes\Ejercicio I02 - Atrapame si puedes\bin\Debug\net6.0-windows\Ejercicio I02 - Atrapame si puedes.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Atrapame si puedes\Ejercicio I02 - Atrapame si puedes\bin\Debug\net6.0-windows\Ejercicio I02 - Atrapame si puedes.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Atrapame si puedes\Ejercicio I02 - Atrapame si puedes\obj\Debug\net6.0-windows\Ejercicio I02 - Atrapame si puedes.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Atrapame si puedes\Ejercicio I02 - Atrapame si puedes\obj\Debug\net6.0-windows\Ejercicio_I02___Atrapame_si_puedes.Form1.resources
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Atrapame si puedes\Ejercicio I02 - Atrapame si puedes\obj\Debug\net6.0-windows\Ejercicio I02 - Atrapame si puedes.csproj.GenerateResource.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Atrapame si puedes\Ejercicio I02 - Atrapame si puedes\obj\Debug\net6.0-windows\Ejercicio I02 - Atrapame si puedes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Atrapame si puedes\Ejercicio I02 - Atrapame si puedes\obj\Debug\net6.0-windows\Ejercicio I02 - Atrapame si puedes.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Atrapame si puedes\Ejercicio I02 - Atrapame si puedes\obj\Debug\net6.0-windows\Ejercicio I02 - Atrapame si puedes.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Atrapame si puedes\Ejercicio I02 - Atrapame si puedes\obj\Debug\net6.0-windows\Ejercicio I02 - Atrapame si puedes.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Atrapame si puedes\Ejercicio I02 - Atrapame si puedes\obj\Debug\net6.0-windows\Ejercicio I02 - Atrapame si puedes.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Atrapame si puedes\Ejercicio I02 - Atrapame si puedes\obj\Debug\net6.0-windows\refint\Ejercicio I02 - Atrapame si puedes.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Atrapame si puedes\Ejercicio I02 - Atrapame si puedes\obj\Debug\net6.0-windows\Ejercicio I02 - Atrapame si puedes.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Atrapame si puedes\Ejercicio I02 - Atrapame si puedes\obj\Debug\net6.0-windows\Ejercicio I02 - Atrapame si puedes.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Atrapame si puedes\Ejercicio I02 - Atrapame si puedes\obj\Debug\net6.0-windows\ref\Ejercicio I02 - Atrapame si puedes.dll
