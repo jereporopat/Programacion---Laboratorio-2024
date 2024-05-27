@@ -1,0 +1,12 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\TorneoEntidades\bin\Debug\net6.0\TorneoEntidades.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\TorneoEntidades\bin\Debug\net6.0\TorneoEntidades.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\TorneoEntidades\bin\Debug\net6.0\TorneoEntidades.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\TorneoEntidades\obj\Debug\net6.0\TorneoEntidades.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\TorneoEntidades\obj\Debug\net6.0\TorneoEntidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\TorneoEntidades\obj\Debug\net6.0\TorneoEntidades.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\TorneoEntidades\obj\Debug\net6.0\TorneoEntidades.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\TorneoEntidades\obj\Debug\net6.0\TorneoEntidades.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\TorneoEntidades\obj\Debug\net6.0\TorneoEntidades.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\TorneoEntidades\obj\Debug\net6.0\refint\TorneoEntidades.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\TorneoEntidades\obj\Debug\net6.0\TorneoEntidades.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\TorneoEntidades\obj\Debug\net6.0\ref\TorneoEntidades.dll

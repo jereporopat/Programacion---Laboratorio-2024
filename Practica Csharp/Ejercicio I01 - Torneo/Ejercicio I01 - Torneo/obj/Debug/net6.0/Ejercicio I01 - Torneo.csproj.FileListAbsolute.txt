@@ -1,0 +1,18 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\Ejercicio I01 - Torneo\bin\Debug\net6.0\Ejercicio I01 - Torneo.exe
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\Ejercicio I01 - Torneo\bin\Debug\net6.0\Ejercicio I01 - Torneo.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\Ejercicio I01 - Torneo\bin\Debug\net6.0\Ejercicio I01 - Torneo.runtimeconfig.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\Ejercicio I01 - Torneo\bin\Debug\net6.0\Ejercicio I01 - Torneo.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\Ejercicio I01 - Torneo\bin\Debug\net6.0\Ejercicio I01 - Torneo.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\Ejercicio I01 - Torneo\bin\Debug\net6.0\TorneoEntidades.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\Ejercicio I01 - Torneo\bin\Debug\net6.0\TorneoEntidades.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\Ejercicio I01 - Torneo\obj\Debug\net6.0\Ejercicio I01 - Torneo.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\Ejercicio I01 - Torneo\obj\Debug\net6.0\Ejercicio I01 - Torneo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\Ejercicio I01 - Torneo\obj\Debug\net6.0\Ejercicio I01 - Torneo.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\Ejercicio I01 - Torneo\obj\Debug\net6.0\Ejercicio I01 - Torneo.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\Ejercicio I01 - Torneo\obj\Debug\net6.0\Ejercicio I01 - Torneo.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\Ejercicio I01 - Torneo\obj\Debug\net6.0\Ejercicio I01 - Torneo.csproj.CopyComplete
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\Ejercicio I01 - Torneo\obj\Debug\net6.0\Ejercicio I01 - Torneo.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\Ejercicio I01 - Torneo\obj\Debug\net6.0\refint\Ejercicio I01 - Torneo.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\Ejercicio I01 - Torneo\obj\Debug\net6.0\Ejercicio I01 - Torneo.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\Ejercicio I01 - Torneo\obj\Debug\net6.0\Ejercicio I01 - Torneo.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Torneo\Ejercicio I01 - Torneo\obj\Debug\net6.0\ref\Ejercicio I01 - Torneo.dll
