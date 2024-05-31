@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Cartuchera</id>
+    <version>1.0.0</version>
+    <authors>Cartuchera</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Cartuchera\Cartuchera\bin\Release\net6.0\Cartuchera.dll" target="lib\net6.0\Cartuchera.dll" />
+  </files>
+</package>

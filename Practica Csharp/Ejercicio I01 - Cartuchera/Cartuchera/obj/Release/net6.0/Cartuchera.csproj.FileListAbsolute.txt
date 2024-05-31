@@ -1,0 +1,12 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Cartuchera\Cartuchera\bin\Release\net6.0\Cartuchera.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Cartuchera\Cartuchera\bin\Release\net6.0\Cartuchera.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Cartuchera\Cartuchera\bin\Release\net6.0\Cartuchera.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Cartuchera\Cartuchera\obj\Release\net6.0\Cartuchera.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Cartuchera\Cartuchera\obj\Release\net6.0\Cartuchera.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Cartuchera\Cartuchera\obj\Release\net6.0\Cartuchera.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Cartuchera\Cartuchera\obj\Release\net6.0\Cartuchera.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Cartuchera\Cartuchera\obj\Release\net6.0\Cartuchera.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Cartuchera\Cartuchera\obj\Release\net6.0\Cartuchera.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Cartuchera\Cartuchera\obj\Release\net6.0\refint\Cartuchera.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Cartuchera\Cartuchera\obj\Release\net6.0\Cartuchera.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - Cartuchera\Cartuchera\obj\Release\net6.0\ref\Cartuchera.dll

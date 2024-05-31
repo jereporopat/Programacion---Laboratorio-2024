@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Contabilidad/1.0.0": {
+        "dependencies": {
+          "ContabilidadEntidades": "1.0.0"
+        },
+        "runtime": {
+          "Contabilidad.dll": {}
+        }
+      },
+      "ContabilidadEntidades/1.0.0": {
+        "runtime": {
+          "ContabilidadEntidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contabilidad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContabilidadEntidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\Escritorio\Practica\Practica Csharp\SerializadorXML\EntidadesSerializadorXML\bin\Release\net6.0\EntidadesSerializadorXML.deps.json
+D:\Escritorio\Practica\Practica Csharp\SerializadorXML\EntidadesSerializadorXML\bin\Release\net6.0\EntidadesSerializadorXML.dll
+D:\Escritorio\Practica\Practica Csharp\SerializadorXML\EntidadesSerializadorXML\bin\Release\net6.0\EntidadesSerializadorXML.pdb
+D:\Escritorio\Practica\Practica Csharp\SerializadorXML\EntidadesSerializadorXML\obj\Release\net6.0\EntidadesSerializadorXML.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\SerializadorXML\EntidadesSerializadorXML\obj\Release\net6.0\EntidadesSerializadorXML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\SerializadorXML\EntidadesSerializadorXML\obj\Release\net6.0\EntidadesSerializadorXML.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\SerializadorXML\EntidadesSerializadorXML\obj\Release\net6.0\EntidadesSerializadorXML.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\SerializadorXML\EntidadesSerializadorXML\obj\Release\net6.0\EntidadesSerializadorXML.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\SerializadorXML\EntidadesSerializadorXML\obj\Release\net6.0\EntidadesSerializadorXML.dll
+D:\Escritorio\Practica\Practica Csharp\SerializadorXML\EntidadesSerializadorXML\obj\Release\net6.0\refint\EntidadesSerializadorXML.dll
+D:\Escritorio\Practica\Practica Csharp\SerializadorXML\EntidadesSerializadorXML\obj\Release\net6.0\EntidadesSerializadorXML.pdb
+D:\Escritorio\Practica\Practica Csharp\SerializadorXML\EntidadesSerializadorXML\obj\Release\net6.0\ref\EntidadesSerializadorXML.dll

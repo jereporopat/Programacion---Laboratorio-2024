@@ -1,0 +1,12 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contabilidad\ContabilidadEntidades\obj\Debug\net6.0\ContabilidadEntidades.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contabilidad\ContabilidadEntidades\obj\Debug\net6.0\ContabilidadEntidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contabilidad\ContabilidadEntidades\obj\Debug\net6.0\ContabilidadEntidades.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contabilidad\ContabilidadEntidades\obj\Debug\net6.0\ContabilidadEntidades.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contabilidad\ContabilidadEntidades\obj\Debug\net6.0\ContabilidadEntidades.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contabilidad\ContabilidadEntidades\bin\Debug\net6.0\ContabilidadEntidades.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contabilidad\ContabilidadEntidades\bin\Debug\net6.0\ContabilidadEntidades.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contabilidad\ContabilidadEntidades\bin\Debug\net6.0\ContabilidadEntidades.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contabilidad\ContabilidadEntidades\obj\Debug\net6.0\ContabilidadEntidades.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contabilidad\ContabilidadEntidades\obj\Debug\net6.0\refint\ContabilidadEntidades.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contabilidad\ContabilidadEntidades\obj\Debug\net6.0\ContabilidadEntidades.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contabilidad\ContabilidadEntidades\obj\Debug\net6.0\ref\ContabilidadEntidades.dll

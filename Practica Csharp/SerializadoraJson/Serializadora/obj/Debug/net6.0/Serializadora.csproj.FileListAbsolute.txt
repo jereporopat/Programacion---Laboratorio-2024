@@ -1,0 +1,12 @@
+D:\Escritorio\Practica\Practica Csharp\SerializadoraJson\Serializadora\bin\Debug\net6.0\Serializadora.deps.json
+D:\Escritorio\Practica\Practica Csharp\SerializadoraJson\Serializadora\bin\Debug\net6.0\Serializadora.dll
+D:\Escritorio\Practica\Practica Csharp\SerializadoraJson\Serializadora\bin\Debug\net6.0\Serializadora.pdb
+D:\Escritorio\Practica\Practica Csharp\SerializadoraJson\Serializadora\obj\Debug\net6.0\Serializadora.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\SerializadoraJson\Serializadora\obj\Debug\net6.0\Serializadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\SerializadoraJson\Serializadora\obj\Debug\net6.0\Serializadora.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\SerializadoraJson\Serializadora\obj\Debug\net6.0\Serializadora.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\SerializadoraJson\Serializadora\obj\Debug\net6.0\Serializadora.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\SerializadoraJson\Serializadora\obj\Debug\net6.0\Serializadora.dll
+D:\Escritorio\Practica\Practica Csharp\SerializadoraJson\Serializadora\obj\Debug\net6.0\refint\Serializadora.dll
+D:\Escritorio\Practica\Practica Csharp\SerializadoraJson\Serializadora\obj\Debug\net6.0\Serializadora.pdb
+D:\Escritorio\Practica\Practica Csharp\SerializadoraJson\Serializadora\obj\Debug\net6.0\ref\Serializadora.dll
