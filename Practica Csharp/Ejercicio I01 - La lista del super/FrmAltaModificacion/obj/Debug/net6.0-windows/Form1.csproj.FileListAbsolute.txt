@@ -1,0 +1,17 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - La lista del super\FrmAltaModificacion\obj\Debug\net6.0-windows\Form1.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - La lista del super\FrmAltaModificacion\obj\Debug\net6.0-windows\FrmAltaModificacion.frmAltasMod.resources
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - La lista del super\FrmAltaModificacion\obj\Debug\net6.0-windows\Form1.csproj.GenerateResource.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - La lista del super\FrmAltaModificacion\obj\Debug\net6.0-windows\Form1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - La lista del super\FrmAltaModificacion\obj\Debug\net6.0-windows\Form1.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - La lista del super\FrmAltaModificacion\obj\Debug\net6.0-windows\Form1.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - La lista del super\FrmAltaModificacion\obj\Debug\net6.0-windows\Form1.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - La lista del super\FrmAltaModificacion\bin\Debug\net6.0-windows\Form1.exe
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - La lista del super\FrmAltaModificacion\bin\Debug\net6.0-windows\Form1.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - La lista del super\FrmAltaModificacion\bin\Debug\net6.0-windows\Form1.runtimeconfig.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - La lista del super\FrmAltaModificacion\bin\Debug\net6.0-windows\Form1.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - La lista del super\FrmAltaModificacion\bin\Debug\net6.0-windows\Form1.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - La lista del super\FrmAltaModificacion\obj\Debug\net6.0-windows\Form1.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - La lista del super\FrmAltaModificacion\obj\Debug\net6.0-windows\refint\Form1.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - La lista del super\FrmAltaModificacion\obj\Debug\net6.0-windows\Form1.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - La lista del super\FrmAltaModificacion\obj\Debug\net6.0-windows\Form1.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - La lista del super\FrmAltaModificacion\obj\Debug\net6.0-windows\ref\Form1.dll

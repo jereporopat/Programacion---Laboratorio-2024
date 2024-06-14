@@ -49,5 +49,10 @@ namespace Notepad
         {
             this.Close();
         }
+
+        private void statusStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
     }
 }

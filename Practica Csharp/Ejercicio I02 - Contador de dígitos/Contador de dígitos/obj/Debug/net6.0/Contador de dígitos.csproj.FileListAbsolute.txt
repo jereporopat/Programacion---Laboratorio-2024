@@ -1,0 +1,15 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contador de dígitos\Contador de dígitos\obj\Debug\net6.0\Contador de dígitos.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contador de dígitos\Contador de dígitos\obj\Debug\net6.0\Contador de dígitos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contador de dígitos\Contador de dígitos\obj\Debug\net6.0\Contador de dígitos.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contador de dígitos\Contador de dígitos\obj\Debug\net6.0\Contador de dígitos.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contador de dígitos\Contador de dígitos\obj\Debug\net6.0\Contador de dígitos.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contador de dígitos\Contador de dígitos\bin\Debug\net6.0\Contador de dígitos.exe
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contador de dígitos\Contador de dígitos\bin\Debug\net6.0\Contador de dígitos.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contador de dígitos\Contador de dígitos\bin\Debug\net6.0\Contador de dígitos.runtimeconfig.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contador de dígitos\Contador de dígitos\bin\Debug\net6.0\Contador de dígitos.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contador de dígitos\Contador de dígitos\bin\Debug\net6.0\Contador de dígitos.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contador de dígitos\Contador de dígitos\obj\Debug\net6.0\Contador de dígitos.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contador de dígitos\Contador de dígitos\obj\Debug\net6.0\refint\Contador de dígitos.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contador de dígitos\Contador de dígitos\obj\Debug\net6.0\Contador de dígitos.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contador de dígitos\Contador de dígitos\obj\Debug\net6.0\Contador de dígitos.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Contador de dígitos\Contador de dígitos\obj\Debug\net6.0\ref\Contador de dígitos.dll
