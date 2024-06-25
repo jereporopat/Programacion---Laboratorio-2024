@@ -1,0 +1,17 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - El relojero\WinFormsElrelojero\bin\Debug\net6.0-windows\WinFormsElrelojero.exe
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - El relojero\WinFormsElrelojero\bin\Debug\net6.0-windows\WinFormsElrelojero.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - El relojero\WinFormsElrelojero\bin\Debug\net6.0-windows\WinFormsElrelojero.runtimeconfig.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - El relojero\WinFormsElrelojero\bin\Debug\net6.0-windows\WinFormsElrelojero.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - El relojero\WinFormsElrelojero\bin\Debug\net6.0-windows\WinFormsElrelojero.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - El relojero\WinFormsElrelojero\obj\Debug\net6.0-windows\WinFormsElrelojero.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - El relojero\WinFormsElrelojero\obj\Debug\net6.0-windows\WinFormsElrelojero.Form1.resources
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - El relojero\WinFormsElrelojero\obj\Debug\net6.0-windows\WinFormsElrelojero.csproj.GenerateResource.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - El relojero\WinFormsElrelojero\obj\Debug\net6.0-windows\WinFormsElrelojero.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - El relojero\WinFormsElrelojero\obj\Debug\net6.0-windows\WinFormsElrelojero.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - El relojero\WinFormsElrelojero\obj\Debug\net6.0-windows\WinFormsElrelojero.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - El relojero\WinFormsElrelojero\obj\Debug\net6.0-windows\WinFormsElrelojero.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - El relojero\WinFormsElrelojero\obj\Debug\net6.0-windows\WinFormsElrelojero.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - El relojero\WinFormsElrelojero\obj\Debug\net6.0-windows\refint\WinFormsElrelojero.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - El relojero\WinFormsElrelojero\obj\Debug\net6.0-windows\WinFormsElrelojero.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - El relojero\WinFormsElrelojero\obj\Debug\net6.0-windows\WinFormsElrelojero.genruntimeconfig.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I01 - El relojero\WinFormsElrelojero\obj\Debug\net6.0-windows\ref\WinFormsElrelojero.dll
