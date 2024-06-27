@@ -1,0 +1,12 @@
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Simulador de atención a clientes\Entidades_Simulador_de_atención_a_clientes\obj\Debug\net6.0\Entidades_Simulador_de_atención_a_clientes.csproj.AssemblyReference.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Simulador de atención a clientes\Entidades_Simulador_de_atención_a_clientes\obj\Debug\net6.0\Entidades_Simulador_de_atención_a_clientes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Simulador de atención a clientes\Entidades_Simulador_de_atención_a_clientes\obj\Debug\net6.0\Entidades_Simulador_de_atención_a_clientes.AssemblyInfoInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Simulador de atención a clientes\Entidades_Simulador_de_atención_a_clientes\obj\Debug\net6.0\Entidades_Simulador_de_atención_a_clientes.AssemblyInfo.cs
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Simulador de atención a clientes\Entidades_Simulador_de_atención_a_clientes\obj\Debug\net6.0\Entidades_Simulador_de_atención_a_clientes.csproj.CoreCompileInputs.cache
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Simulador de atención a clientes\Entidades_Simulador_de_atención_a_clientes\bin\Debug\net6.0\Entidades_Simulador_de_atención_a_clientes.deps.json
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Simulador de atención a clientes\Entidades_Simulador_de_atención_a_clientes\bin\Debug\net6.0\Entidades_Simulador_de_atención_a_clientes.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Simulador de atención a clientes\Entidades_Simulador_de_atención_a_clientes\bin\Debug\net6.0\Entidades_Simulador_de_atención_a_clientes.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Simulador de atención a clientes\Entidades_Simulador_de_atención_a_clientes\obj\Debug\net6.0\Entidades_Simulador_de_atención_a_clientes.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Simulador de atención a clientes\Entidades_Simulador_de_atención_a_clientes\obj\Debug\net6.0\refint\Entidades_Simulador_de_atención_a_clientes.dll
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Simulador de atención a clientes\Entidades_Simulador_de_atención_a_clientes\obj\Debug\net6.0\Entidades_Simulador_de_atención_a_clientes.pdb
+D:\Escritorio\Practica\Practica Csharp\Ejercicio I02 - Simulador de atención a clientes\Entidades_Simulador_de_atención_a_clientes\obj\Debug\net6.0\ref\Entidades_Simulador_de_atención_a_clientes.dll

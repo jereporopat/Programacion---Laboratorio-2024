@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AbbdyKgvoBjFzuQUgpJ6BtQIi4BXfJS4SU5NgXK6ZOzg6liabSfsQ0C2A2tjDVA+K70o4zHXiNCZ3snWHG+GeQ==",
+  "success": true,
+  "projectFilePath": "D:\\Escritorio\\Practica\\Practica Csharp\\Ejercicio I02 - Simulador de atención a clientes\\AppConsolaSimuladorAtencionAlCliente\\AppConsolaSimuladorAtencionAlCliente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\afrei.SC-DOMINIO\\.nuget\\packages\\namegenerator\\2.0.4\\namegenerator.2.0.4.nupkg.sha512",
+    "C:\\Users\\afrei.SC-DOMINIO\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
